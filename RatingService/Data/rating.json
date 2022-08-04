@@ -1,0 +1,20 @@
+[
+  {
+    "Id": "bcc62987-5622-4666-a6b2-64d692cbd1dc",
+    "productId": "d30109c9-c98f-4580-8239-288a2ff3f634",
+    "rating": 2.0,
+    "raterId": "1750f245-cb4d-4234-9a89-ff557e38edbc"
+  },
+  {
+    "Id": "91ffcde1-9d8d-4222-8985-31b1d1d7fb1a",
+    "productId": "10747dbb-1165-4da6-b471-75ca6c7ece8c",
+    "rating": 2.0,
+    "raterId": "9f1ea7ca-1331-4ff6-a0a4-d28f33d9ff2c"
+  },
+  {
+    "Id": "a3116caf-fbf8-4fb9-8dea-6c24c97e45ce",
+    "productId": "d30109c9-c98f-4580-8239-288a2ff3f634",
+    "rating": 3.0,
+    "raterId": "6754b365-4e08-4c6d-b2bb-984beed22d9c"
+  }
+]
